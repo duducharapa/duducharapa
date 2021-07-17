@@ -1,10 +1,6 @@
 <p align='center'>
 
   # Welcome!
-  <citation style="margin-bottom: 10px;display: flex;align-items: center;justify-content: center;">
-    <img src="https://static.wikia.nocookie.net/awesomenauts_gamepedia/images/8/8e/UI_Skillbutton_Shifter_Jumpnew.png/revision/latest/scale-to-width-down/256?cb=20160708015210" width="48">
-    <cite style="font-size: 1.8rem;font-weight: 400;margin-left: 20px;">I'm not just in my element! I AM my element!</cite>
-  </citation>
   <p align='center'>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duducharapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   </p>
@@ -88,4 +84,3 @@
 ## Fontes:
 - [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [CodeWars Badge](https://www.codewars.com)
-- [Ix Phrase](https://awesomenauts.fandom.com/wiki/Ix_the_Interloper#tab=Information)
