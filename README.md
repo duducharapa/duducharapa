@@ -1,6 +1,7 @@
 <p align='center'>
 
-  # Welcome!
+# Welcome!
+
   <p align='center'>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=duducharapa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   </p>
@@ -10,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/eduardo-charapa-48a709199/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="#">
@@ -22,6 +23,7 @@
 </p>
 
 ## Quem eu sou?
+
 - :book: Cursando Análise e Desenvolvimento de Sistemas da UniFAP CE
 - :fireworks: 18 anos
 - :pencil: Desenvolvedor Back-end
@@ -29,6 +31,7 @@
 - :tv: Animes
 
 ## Diga-me o que sabes que direi quem tu és!
+
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -52,28 +55,28 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white">
 </p>
 
-- **Obs:** Não possuo conhecimento avançado em todos, porém tenho noção suficiente para utilização. Também possuo conhecimento básico em outras linguagens/tecnologias.  
+- **Obs:** Não possuo conhecimento avançado em todos, porém tenho noção suficiente para utilização. Também possuo conhecimento básico em outras linguagens/tecnologias.
 
 ## Olha...ali tem dedo meu
+
 - :newspaper: [Cariri é isso](http://caririeisso.com.br) (Back-end)
 - :notes: [Zero Music](https://github.com/duducharapa/zero-music) (Projeto completo)
 
 ## O estudo nunca acaba!
+
 <p align='center'>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 ## Ei, também sei outras coisas
+
 - :memo: DDD
 - :memo: TDD
 - :heavy_check_mark: ESP8266
@@ -82,5 +85,6 @@
 - :memo: Microsserviços
 
 ## Fontes:
+
 - [Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [CodeWars Badge](https://www.codewars.com)
